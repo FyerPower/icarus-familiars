@@ -1,4 +1,30 @@
 {
+    "zones": [
+        {
+            "name":        "Triteal Rift",
+            "description": "Level 35-40"
+        },
+        {
+            "name":        "Parnas Coast",
+            "description": "Level 25-35"
+        },
+        {
+            "name":        "Sea of Hakanas",
+            "description": "Level 20-23"
+        },
+        {
+            "name":        "Hakanas Highlands",
+            "description": "Level 9-25"
+        },
+        {
+            "name":        "Hakains Castle",
+            "description": "Level 8-9"
+        },
+        {
+            "name":        "Bakaar Forest",
+            "description": "Level 1-8"
+        }
+    ],
     "familiars": [
         {
             "name":        "Void Letonsia",
@@ -349,8 +375,8 @@
             "zone":        "Triteal Rift",
             "type":        "Ground|Flying",
             "altitude":    "240m",
-            "icon":        "Extreme Doraupu",
-            "jpName":      "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960776_14279_0.png",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960776_14279_0.png",
+            "jpName":      "Extreme Doraupu",
             "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=334",
             "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450258257_14342_0.jpg",
             "ingredients": [],

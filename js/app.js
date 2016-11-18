@@ -2,7 +2,7 @@
     'use strict';
 
     // Declare app level module which depends on views, and components
-    angular.module('icarus', ['ngRoute'])
+    angular.module('icarus', ['ngRoute', 'ngAnimate', 'angularModalService'])
         .config(['$locationProvider', '$routeProvider', function($locationProvider, $routeProvider) {
           $locationProvider.hashPrefix('!');
 
@@ -20,12 +20,8 @@
                 activetab: 'seals'
             });
 
-          $routeProvider.otherwise({redirectTo: '/zone'});
-
-          console.log("Loaded");
+          $routeProvider.otherwise({redirectTo: '/zones'});
         }])
         .run(function(){
-            console.log("Ran");
-
         });
 }());

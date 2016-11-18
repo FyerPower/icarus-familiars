@@ -170,3 +170,38 @@
    ========================================================================== */
    .navbar .btn-navbar{float: none; margin: 0 10px; background: #ee5d4b; color: #fff; margin-bottom: 3px;border: none;}
    .navbar .btn-navbar:hover{background: #3e3c4a;color: #fff;border: none;}
+
+
+.modal-container {
+    width: 100%;
+    height: 100%;
+}
+.modal-fade {
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    background-color: black;
+    -moz-opacity: 0.7;
+    opacity: .70;
+    filter: alpha(opacity=70);
+    width: 100%;
+    height: 100%;
+    z-index: 90;
+}
+.modal-contents {
+    position: fixed;
+    top: 100px;
+    left: calc(50% - 484px);
+    z-index: 100;
+    width: 968px;
+    height: 648px;
+    background-image: url('/img/modal-bg.png');
+}
+.modal-close {
+    position: absolute;
+    right: 24px;
+    top: 7px;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}

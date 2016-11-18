@@ -1,76 +1,22 @@
 <div class="">
-    <div class="featured-heading">
-        <h1>Bakaar Forest</h1>
-        <h2>Level 1-8</h2>
-    </div>
-    <div class="ruler"></div>
-    <div class="featured-content">
-        <div class="block">
-            <div class="block-content">
-                <div class="row-fluid">
-                    <ul class="gallery">
-                        <li>
-                            <a href="#" >
-                                <img src="http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960776_14279_1.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" >
-                                <img src="http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446961624_14279_0.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" >
-                                <img src="http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960728_14279_2.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" >
-                                <img src="http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960745_14279_4.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" >
-                                <img src="http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960745_14279_4.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" >
-                                <img src="http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960713_14279_0.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" >
-                                <img src="http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960745_14279_0.png" alt="">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" >
-                                <img src="http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960713_14279_2.png" alt="">
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+    <div ng-repeat="zone in vm.zones">
+        <div class="featured-heading">
+            <h1>{{zone.name}}</h1>
+            <h2>{{zone.description}}</h2>
         </div>
-    </div>
-
-    <div class="featured-heading">
-        <h1>Hakanas Highlands</h1>
-        <h2>Level 9-25</h2>
-    </div>
-    <div class="ruler"></div>
-    <div class="featured-content">
-        <div class="block">
-            <div class="block-content">
-                <div class="row-fluid">
-                    <ul class="gallery">
-                        <li>
-                            <a href="#" >
-                                <img src="img/img2.jpg" alt="">
-                            </a>
-                        </li>
-                    </ul>
+        <div class="ruler"></div>
+        <div class="featured-content">
+            <div class="block">
+                <div class="block-content">
+                    <div class="row-fluid">
+                        <ul class="gallery">
+                            <li ng-repeat="familiar in vm.familiars[zone.name]">
+                                <a ng-click="vm.openFamiliarDetails(familiar)">
+                                    <img ng-src="{{familiar.icon}}">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
