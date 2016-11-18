@@ -9,11 +9,12 @@
             <div class="block">
                 <div class="block-content">
                     <div class="row-fluid">
-                        <ul class="gallery">
+                        <ul class="familiar-list">
                             <li ng-repeat="familiar in vm.familiars[zone.name]">
-                                <a ng-click="vm.openFamiliarDetails(familiar)">
+                                <span ng-click="vm.openFamiliarDetails(familiar)">
                                     <img ng-src="{{familiar.icon}}">
-                                </a>
+                                    <i class="familiar-star" ng-class="{'familiar-star-2': familiar.grade === 'Elite', 'familiar-star-3': familiar.grade === 'Heroic'}"></i>
+                                </span>
                             </li>
                         </ul>
                     </div>

@@ -146,12 +146,11 @@
   .featured-content .block{}
 	.featured-content .block .block-title{padding-bottom: 20px;}
 	.featured-content .block .block-title{}
-	.featured-content .block .block-content .gallery li{list-style: none; display: inline-block; margin-right: 14px; padding-bottom:25px; }
-  .featured-content .block .block-content [class^="fw-icon-"]{color: #3e3c4a;}
+  /*.featured-content .block .block-content [class^="fw-icon-"]{color: #3e3c4a;}
   .featured-content .block .block-content p{padding-bottom: 25px;}
   .featured-content .block .block-content ul{padding-bottom: 15px;}
   .featured-content .block .block-content ul li{list-style: none; padding-bottom: 15px; color: #6f6e74; font-family: 'latoregular';}
-  .featured-content .block .block-content ul li [class^="fw-icon-"]{margin-right: 10px;}
+  .featured-content .block .block-content ul li [class^="fw-icon-"]{margin-right: 10px;}*/
 
 /* ==========================================================================
    Footer styles starts here
@@ -171,6 +170,12 @@
    .navbar .btn-navbar{float: none; margin: 0 10px; background: #ee5d4b; color: #fff; margin-bottom: 3px;border: none;}
    .navbar .btn-navbar:hover{background: #3e3c4a;color: #fff;border: none;}
 
+
+
+
+/* ==========================================================================
+    Familiar Modal
+   ========================================================================== */
 
 .modal-container {
     width: 100%;
@@ -205,3 +210,43 @@
     height: 30px;
     display: inline-block;
 }
+
+/* ==========================================================================
+    Familiar List
+   ========================================================================== */
+
+.familiar-list li {
+    position: relative;
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 0;
+}
+
+.familiar-list li span {
+    display: inline-block;
+
+    padding: 8px;
+    -moz-background-image: -moz-linear-gradient(top, rgba(46,46,46,1) 0%, rgba(109,109,109,1) 50%, rgba(60,60,60,1) 100%);
+    -webkit-background-image: -webkit-linear-gradient(top, rgba(46,46,46,1) 0%, rgba(109,109,109,1) 50%, rgba(60,60,60,1) 100%);
+    background-image: linear-gradient(to bottom, rgba(46,46,46,1) 0%, rgba(109,109,109,1) 50%, rgba(60,60,60,1) 100%);
+    border-radius: 6px;
+}
+
+.familiar-list li img {
+    width: 105px;
+    height: 85px;
+}
+
+.familiar-list li i.familiar-star {
+    display: inline-block;
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    width: 32px;
+    height: 32px;
+    background-size: 32px 32px;
+}
+
+.familiar-list li i.familiar-star.familiar-star-2 { background-image: url("/img/familiar-star-2.png"); }
