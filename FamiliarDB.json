@@ -1,0 +1,498 @@
+{
+    "familiars": [
+        {
+            "name":        "Void Letonsia",
+            "level":       42,
+            "grade":       "Heroic",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "800m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960776_14279_1.png",
+            "jpName":      "Emptiness of Retorunshia",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=319",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/09/1449664863_14330_0.jpg",
+            "ingredients": [
+                { "quanity": 5,     "name": "Void Kravid" },
+                { "quanity": 7,     "name": "Sacred Sky Shard" },
+                { "quanity": 1000,  "name": "Familiar Orb" },
+                { "quanity": 200,   "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "Physical Attack 93-126",
+                "All Stats 20-24"
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "Femuto",
+            "level":       40,
+            "grade":       "Heroic",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "730m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446961624_14279_0.png",
+            "jpName":      "Airspace of Wings Bemuto",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=321",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/09/1449661880_14330_0.jpg",
+            "ingredients": [
+                { "quanity": 3,     "name": "Blue Frost Wyvern" },
+                { "quanity": 3,     "name": "Camara" },
+                { "quanity": 3,     "name": "Golden Wing Abras" },
+                { "quanity": 120,   "name": "Familiar Orb" },
+                { "quanity": 100,   "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "Magic Critial Damage 117-145",
+                "All Stats 20-24"
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "Karasha the Dark One",
+            "level":       40,
+            "grade":       "Heroic",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "820m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960728_14279_2.png",
+            "jpName":      "Dark magic dragon Karasha",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=329",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450256534_14342_0.jpg",
+            "ingredients": [
+                { "quanity": 2,     "name": "Void Kravid" },
+                { "quanity": 2,     "name": "Red Horn Galadoku" },
+                { "quanity": 5,     "name": "Wretched Emblem" },
+                { "quanity": 120,   "name": "Familiar Orb" },
+                { "quanity": 100,   "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "Health 286-394",
+                "All Stats 20-24"
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "Twilight Kargyle",
+            "level":       40,
+            "grade":       "Heroic",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "850m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960745_14279_4.png",
+            "jpName":      "Gargoyle of dawn",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=341",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450258715_14342_0.jpg",
+            "ingredients": [
+                { "quanity": 3,     "name": "Leonid" },
+                { "quanity": 2,     "name": "Voidbeast Drauph" },
+                { "quanity": 7,     "name": "Pure Marrow" },
+                { "quanity": 120,   "name": "Familiar Orb" },
+                { "quanity": 100,   "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "Physical Attack 93-126",
+                "All Stats 20-24"
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "Void Kargyle",
+            "level":       40,
+            "grade":       "Heroic",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "850m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960745_14279_4.png",
+            "jpName":      "Emptiness of gargoyle",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=320",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450258715_14342_0.jpg",
+            "ingredients": [
+                { "quanity": 3,     "name": "Leonid" },
+                { "quanity": 2,     "name": "Voidbeast Drauph" },
+                { "quanity": 7,     "name": "Pure Marrow" },
+                { "quanity": 120,   "name": "Familiar Orb" },
+                { "quanity": 100,   "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "Magic Attack 93-126",
+                "All Stats 20-24"
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "Lunafont",
+            "level":       39,
+            "grade":       "Heroic",
+            "zone":        "Triteal Rift",
+            "type":        "Ground",
+            "altitude":    "0m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960713_14279_0.png",
+            "jpName":      "Moonlight of Lucifer de",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=330",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450256722_14342_0.jpg",
+            "ingredients": [
+                { "quanity": 3,     "name": "Leorid" },
+                { "quanity": 3,     "name": "Grumpy Gros" },
+                { "quanity": 3,     "name": "Blahk" },
+                { "quanity": 120,   "name": "Familiar Orb" },
+                { "quanity": 100,   "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "Health Absorbtion Chance +1%",
+                "Health Absorbtion Amount +0.2%"
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "Paragas the Mad",
+            "level":       39,
+            "grade":       "Heroic",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "285m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960745_14279_0.png",
+            "jpName":      "Phantom dragon Paragasu",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=335",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450258346_14342_0.jpg",
+            "ingredients": [
+                { "quanity": 3,     "name": "Straiga" },
+                { "quanity": 3,     "name": "Black Dragon Balark" },
+                { "quanity": 2,     "name": "Gilded Benthnic" },
+                { "quanity": 120,   "name": "Familiar Orb" },
+                { "quanity": 100,   "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "Physical Critical Damage 117-145",
+                "All Stats 20-24"
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "Veldon",
+            "level":       40,
+            "grade":       "Heroic",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "850m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960713_14279_2.png",
+            "jpName":      "Verdun of immortality",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=342",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/24/1450926997_14351_0.png",
+            "ingredients": [
+                { "quanity": 2,     "name": "Void Kravid" },
+                { "quanity": 2,     "name": "Black Dragon Balark" },
+                { "quanity": 10,    "name": "Sealed Immortal Essence" },
+                { "quanity": 120,   "name": "Familiar Orb" },
+                { "quanity": 100,   "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "Overall Critical Damage 117-145",
+                "All Stats 20-24"
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "Keeshar",
+            "level":       37,
+            "grade":       "Elite",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "660m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960728_14279_1.png",
+            "jpName":      "Black bone Vai Red",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=322",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/09/1449661927_14330_0.jpg",
+            "ingredients": [
+                { "quanity": 3,     "name": "Fallen Legion Mark" },
+                { "quanity": 1,     "name": "Bonethrope" },
+                { "quanity": 70,    "name": "Familiar Orb" },
+                { "quanity": 20,    "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "",
+                ""
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "Black Dragon Balark",
+            "level":       39,
+            "grade":       "Elite",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "240m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960729_14279_4.png",
+            "jpName":      "Black Dragon Baraku",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=324",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/09/1449661999_14330_0.jpg",
+            "ingredients": [
+                { "quanity": 5,     "name": "Laeta" },
+                { "quanity": 5,     "name": "Random Dragon" },
+                { "quanity": 70,    "name": "Familiar Orb" },
+                { "quanity": 20,    "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "",
+                ""
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "Blade",
+            "level":       38,
+            "grade":       "Elite",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "360m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960713_14279_1.png",
+            "jpName":      "Blade of blue wings",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=325",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/09/1449667646_14331_0.jpg",
+            "ingredients": [],
+            "sealed":      [
+                "Magic Attack 83-97",
+                "Health 223-227"
+            ],
+            "notes":       "Mark dropped within 'The Breach'"
+        },
+        {
+            "name":        "Red Horn Galadoku",
+            "level":       37,
+            "grade":       "Elite",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "160m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960760_14279_2.png",
+            "jpName":      "Garatogu of Red Wing",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=326",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/09/1449662129_14330_0.jpg",
+            "ingredients": [
+                { "quanity": 3,     "name": "Draku" },
+                { "quanity": 2,     "name": "Dainok" },
+                { "quanity": 70,    "name": "Familiar Orb" },
+                { "quanity": 20,    "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "",
+                ""
+            ],
+            "notes":       "Mark dropped within 'The Breach'"
+        },
+        {
+            "name":        "Leonid",
+            "level":       37,
+            "grade":       "Elite",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "310m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960776_14279_3.png",
+            "jpName":      "Leonid of Guren",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=331",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450256961_14342_0.jpg",
+            "ingredients": [],
+            "sealed":      [
+                "",
+                ""
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "Void Kravid",
+            "level":       37,
+            "grade":       "Elite",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "330-750m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960713_14279_3.png",
+            "jpName":      "Emptiness of Kurabido",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=332",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450258036_14342_0.jpg",
+            "ingredients": [
+                { "quanity": 1,     "name": "Amaran" },
+                { "quanity": 3,     "name": "Ebema" },
+                { "quanity": 70,    "name": "Familiar Orb" },
+                { "quanity": 20,    "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "",
+                ""
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "White Tear",
+            "level":       38,
+            "grade":       "Elite",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "160m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446961624_14279_1.png",
+            "jpName":      "Whitey A of Shirahige",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=333",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450258203_14342_0.jpg",
+            "ingredients": [
+                { "quanity": 5,     "name": "Floatier" },
+                { "quanity": 5,     "name": "Blatier" },
+                { "quanity": 70,    "name": "Familiar Orb" },
+                { "quanity": 20,    "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "",
+                ""
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "Voidbeast Drauph",
+            "level":       39,
+            "grade":       "Elite",
+            "zone":        "Triteal Rift",
+            "type":        "Ground|Flying",
+            "altitude":    "240m",
+            "icon":        "Extreme Doraupu",
+            "jpName":      "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960776_14279_0.png",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=334",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450258257_14342_0.jpg",
+            "ingredients": [],
+            "sealed":      [
+                "",
+                ""
+            ],
+            "notes":       "Mark dropped within 'The Breach'"
+        },
+        {
+            "name":        "Golden Wings Abras",
+            "level":       38,
+            "grade":       "Elite",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "730m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960776_14279_2.png",
+            "jpName":      "Of light feather Aburasu",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=343",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450258478_14342_0.jpg",
+            "ingredients": [
+                { "quanity": 2,     "name": "Nivah" },
+                { "quanity": 2,     "name": "Windrunner" },
+                { "quanity": 70,    "name": "Familiar Orb" },
+                { "quanity": 20,    "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "",
+                ""
+            ],
+            "notes":       ""
+        },
+        {
+            "name":        "Pegasus",
+            "level":       37,
+            "grade":       "Elite",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "490m",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960760_14279_3.png",
+            "jpName":      "Pegasus",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=344",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450258573_14342_0.jpg",
+            "ingredients": [],
+            "sealed":      [
+                "",
+                ""
+            ],
+            "notes":       "No mark needed.  Just need to lower life."
+        },
+        {
+            "name":        "Masto",
+            "level":       40,
+            "grade":       "Elite",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960745_14279_3.png",
+            "jpName":      "Ghost mast",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=345",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450258612_14342_0.jpg",
+            "ingredients": [],
+            "sealed":      [
+                "",
+                ""
+            ],
+            "notes":       "Mark dropped within 'The Breach'"
+        },
+        {
+            "name":        "Embra",
+            "level":       40,
+            "grade":       "Elite",
+            "zone":        "Triteal Rift",
+            "type":        "Flying",
+            "altitude":    "",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446960745_14279_2.png",
+            "jpName":      "Ghost Enbura over",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=346",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450258612_14342_0.jpg",
+            "ingredients": [],
+            "sealed":      [
+                "",
+                ""
+            ],
+            "notes":       "Mark dropped within 'The Breach'"
+        },
+        {
+            "name":        "Abagne",
+            "level":       38,
+            "grade":       "Elite",
+            "zone":        "Triteal Rift",
+            "type":        "Ground",
+            "altitude":    "",
+            "icon":        "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/11/08/1446961625_14279_2.png",
+            "jpName":      "Abarune",
+            "jpWikiLink":  "http://icarus.gamecom.jp/bbs_blog.php?c_seq=148&seq=347",
+            "location":    "http://icarus-web.nefficient.jp/images//webdata/upload/images/icarus/teaser/2015/12/16/1450258835_14342_0.jpg",
+            "ingredients": [
+                { "quanity": 2,     "name": "Taslan the Devourer" },
+                { "quanity": 4,     "name": "Abagne's Web" },
+                { "quanity": 70,    "name": "Familiar Orb" },
+                { "quanity": 20,    "name": "Elite Taming Potion" }
+            ],
+            "sealed":      [
+                "",
+                ""
+            ],
+            "notes":       ""
+        }
+    ],
+    "items": [
+        {
+            "name": "Familiar Orb",
+            "info": "Item that can be obtained as random drops or quest rewards"
+        },
+        {
+            "name": "Elite Taming Potion",
+            "info": "Item that can be obtained as random drops or quest rewards"
+        },
+        {
+            "name": "Sacred Sky Shard",
+            "info": "Repeatable quest from in Eclipsed Shrine of Triteal Rift"
+        },
+        {
+            "name": "Pure Marrow",
+            "info": ""
+        },
+        {
+            "name": "Sealed Immortal Essence",
+            "info": ""
+        },
+        {
+            "name": "Fallen Legion Mark",
+            "info": ""
+        },
+        {
+            "name": "Wretched Emblem",
+            "info": ""
+        },
+        {
+            "name": "Abagne's Web",
+            "info": ""
+        }
+    ]
+}
