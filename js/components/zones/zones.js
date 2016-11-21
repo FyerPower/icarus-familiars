@@ -8,7 +8,7 @@
     function ZonesController($http, ModalService){
         var vm = this;
 
-        $http.get('/FamiliarDB.json').then(function(response){
+        $http.get('/icarus-familiars/FamiliarDB.json').then(function(response){
             vm.familiars = _.groupBy(response.data.familiars, 'zone');
             vm.zones = response.data.zones;
         });
