@@ -8,13 +8,13 @@
 
           $routeProvider
             .when('/zones', {
-                templateUrl: 'icarus-familiars/js/components/zones/zones.html',
+                templateUrl: 'js/components/zones/zones.html',
                 controller: 'ZonesController',
                 controllerAs: 'vm',
                 activetab: 'zones'
             })
             .when('/seals', {
-                templateUrl: 'icarus-familiars/js/components/seals/seals.html',
+                templateUrl: 'js/components/seals/seals.html',
                 controller: 'SealsController',
                 controllerAs: 'vm',
                 activetab: 'seals'
