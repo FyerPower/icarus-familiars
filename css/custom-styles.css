@@ -249,4 +249,4 @@
     background-size: 32px 32px;
 }
 
-.familiar-list li i.familiar-star.familiar-star-2 { background-image: url("/img/familiar-star-2.png"); }
+.familiar-list li i.familiar-star.familiar-star-2 { background-image: url("../img/familiar-star-2.png"); }
