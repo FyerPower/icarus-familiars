@@ -4,12 +4,11 @@
     angular.module('icarus')
         .controller('ZonesController', ZonesController);
 
-    ZonesController.$inject = ['$http', '$rootScope', 'ModalService'];
-    function ZonesController($http, $rootScope, ModalService){
+    ZonesController.$inject = ['$http', 'ModalService'];
+    function ZonesController($http, ModalService){
         var vm = this;
 
-
-        $http.get($rootScope.baseUrl + '/FamiliarDB.json').then(function(response){
+        $http.get('/FamiliarDB.json').then(function(response){
             vm.familiars = _.groupBy(response.data.familiars, 'zone');
             vm.zones = response.data.zones;
         });

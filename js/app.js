@@ -22,7 +22,6 @@
 
           $routeProvider.otherwise({redirectTo: '/zones'});
         }])
-        .run(function($rootScope, $location){
-            $rootScope.baseUrl = ($location.$$absUrl.indexOf('github') >= 0 ? "/icarus-familiars" : "/");
+        .run(function(){
         });
 }());
